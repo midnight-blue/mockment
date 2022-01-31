@@ -79,4 +79,8 @@ describe('test input formats', () => {
 		const now = moment();
 		expect(now.valueOf()).toEqual(dateObject.valueOf());
 	});
+
+	it('just fails', () => {
+		expect(true).toEqual(false);
+	});
 });
