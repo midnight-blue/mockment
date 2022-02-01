@@ -1,6 +1,6 @@
 # Mockment
 
-![TestAction](https://img.shields.io/badge/Test-failing-red)
+![TestAction](https://github.com/midnight-blue/mockment/workflows/TestAction/badge.svg)
 
 ## Description
 
