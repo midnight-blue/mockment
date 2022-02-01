@@ -1,6 +1,6 @@
 # Mockment
 
-![TestAction](https://github.com/midnight-blue/mockment/workflows/TestAction/badge.svg)
+![Test](https://github.com/midnight-blue/mockment/workflows/TestAction/badge.svg)
 
 ## Description
 
