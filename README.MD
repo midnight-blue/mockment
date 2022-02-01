@@ -1,5 +1,7 @@
 # Mockment
 
+![TestAction](https://img.shields.io/badge/Test-failing-red)
+
 ## Description
 
 Mockment is a small library of functions supposed to facilitate testing code using the `moment` library.  
